@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>hi world</h1>
     
 
     <script src="script.js"></script>
