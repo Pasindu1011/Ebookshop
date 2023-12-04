@@ -29,7 +29,7 @@
     <div class="col-12 p-3">
         <div class="row">
             <div class="col-6 d-none d-lg-block background"></div>
-            <div class="col-12 col-lg-6 d-none" id="signupBox">
+            <div class="col-12 col-lg-6 " id="signupBox">
                 <div class="row g-2">
                     <div class="col-12">
                         <p class="title2">Create New Account</p>
@@ -66,12 +66,12 @@
                         <button class="btn btn-primary">Sign Up</button>
                     </div>
                     <div class="col-12 col-lg-6 d-grid">
-                        <button class="btn btn-dark">Already have an account?Sign In</button>
+                        <button class="btn btn-dark" onclick="changeView();">Already have an account?Sign In</button>
                     </div>
                 </div>
 
             </div>
-            <div class="col-12 col-lg-6"id="signIngBox">
+            <div class="col-12 col-lg-6 d-none"id="signIngBox">
                 <div class="row g-2">
                     <div class="col-12">
                         <p class="title2">Sign In</p>
