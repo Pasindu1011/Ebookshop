@@ -10,11 +10,17 @@
     <link rel="icon" href="resource/logo.png">
 </head>
 <body class ="main-body">
-<div class="container-fluid vh-100 d-flex justifly-content-center">
+<div class="container-fluid vh-100 d-flex justify-content-center">
     <div class="row align-content-center">
+
     <!--header -->
     <div class="col-12">
-        <div class="row"></div>
+        <div class="row">
+            <div class="col-12 logo"></div>
+            <div class="col-12">
+                <p class="text-center title1">Hi, Welcome to BookShop</p>
+            </div>
+        </div>
     </div>
 
     <!-- header-->

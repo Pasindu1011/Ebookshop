@@ -4,3 +4,12 @@
     background-position: center;
     background-repeat:no-repeat;
 }
+
+.logo{
+    background-image: url("resource/logo.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
