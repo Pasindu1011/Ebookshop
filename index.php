@@ -76,6 +76,29 @@
                     <div class="col-12">
                         <p class="title2">Sign In</p>
                     </div>
+                    <div class="col-12">
+                        <label class="form-label">Email</label>
+                        <input type="email"class="form-control" />
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label">Password</label>
+                        <input type="password"class="form-control" />
+                    </div>
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" >
+                            <label class="form-check-label">Remember Me</label>
+                        </div>
+                    </div>
+                    <div class="col-6 text-end">
+                        <a href="#"class="link-primary">Forgot Password?</a>
+                    </div>
+                    <div class="col-12 col-lg-6 d-grid">
+                        <button class="btn btn-success">Sign In</button>
+                    </div>
+                    <div class="col-12 col-lg-6 d-grid">
+                        <button class="btn btn-danger">New to Eshop? join Now</button>
+                    </div>
                 </div>
             </div>
         </div>
