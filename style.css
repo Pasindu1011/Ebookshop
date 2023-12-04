@@ -33,3 +33,14 @@
     font-size: 30px;
     letter-spacing: 3px; 
 }
+
+.background{
+    background-image: url("resource/back.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.title2{
+    font-size: 25px;
+    font-weight: bold;
+}

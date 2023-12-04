@@ -25,6 +25,64 @@
 
     <!-- header-->
 
+    <!--content-->
+    <div class="col-12 p-3">
+        <div class="row">
+            <div class="col-6 d-none d-lg-block background"></div>
+            <div class="col-12 col-lg-6 d-none" id="signupBox">
+                <div class="row g-2">
+                    <div class="col-12">
+                        <p class="title2">Create New Account</p>
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">First Name</label>
+                        <input type="text" class ="form-control"/>
+
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Last Name</label>
+                        <input type="text" class ="form-control"/>
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label">Email</label>
+                        <input type="Email" class ="form-control"/>
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label">PassWord</label>
+                        <input type="password" class ="form-control"/>
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Mobile</label>
+                        <input type="text" class ="form-control"/>
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Gender</label>
+                        <select class="form-select">
+                            <option value="">Male</option>
+                            <option value="">Female</option>
+                        </select>
+                    </div>
+                    <div class="col-12 col-lg-6 d-grid">
+                        <button class="btn btn-primary">Sign Up</button>
+                    </div>
+                    <div class="col-12 col-lg-6 d-grid">
+                        <button class="btn btn-dark">Already have an account?Sign In</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-12 col-lg-6"id="signIngBox">
+                <div class="row g-2">
+                    <div class="col-12">
+                        <p class="title2">Sign In</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--content-->
+
+
     </div>
 </div>
     
